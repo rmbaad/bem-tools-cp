@@ -25,6 +25,8 @@
     "bem-walk": "bem-sdk/bem-walk",
     "coa": "^1.0.1",
     "css": "^2.2.1",
+    "escodegen": "^1.8.1",
+    "esprima": "^3.0.0",
     "fs-extra": "^0.30.0",
     "lodash": "^4.13.1",
     "micromatch": "^2.3.10",
